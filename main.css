@@ -1,0 +1,31 @@
+.container {
+    width: 100%;
+    height: 100%;
+    background-image: url('https://d2foa7ei5ukpvz.cloudfront.net/wp-content/uploads/2018/06/13184518/19%C2%B0_International_Jazz_Festival_of_Punta_del_Este_-_150111-2052-jikatu_16077813707.jpg');
+    background-position: center;
+    background-size: cover;
+    font-family: 'Oswald', sans-serif;
+    text-align: center;
+}
+
+.overlay {
+    background-color: rgba(0, 0, 0, 0.75);
+    width: 100%;
+    height: 100%;
+}
+
+.title {
+    font-size: 4.5em;
+    color: #db0018;
+    margin: 0;
+    padding: 43vh 0 10px;
+}
+
+.description {
+    font-size: 2em;    
+    margin: 0;    
+    color: #fff;    
+    font-weight: 400;
+    font-style: italic;
+    padding: 0 0 43vh 0;
+}
